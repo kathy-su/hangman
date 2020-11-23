@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class Hangman {
 
 	private static String[] listOfWords = new String[] { "happy", "brilliant", "weather", "hangman", "programming",
-			"waterloo", "distribution", "mountain", "suggestion", "pollution", "organization", "opinion", "comparison", 			"quicksand", "arithmetic", "authority", "discussion", "tendency", "discussion", "observation", "toothpaste", 			"building", 	"rhythm", "experience", "pancake"
+			"waterloo", "distribution", "mountain", "suggestion", "pollution", "organization", "opinion", "comparison", "quicksand", "arithmetic", "authority", "discussion", "tendency", "discussion", "observation", "toothpaste", "building", "rhythm", "experience", "pancake"
 };
 
 	public static void main(String[] args) {
